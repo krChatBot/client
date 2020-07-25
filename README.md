@@ -1,7 +1,7 @@
 ﻿# 음잘알(music recommendation chatbot service)
 
 챗봇 기반 음악 추천 서비스인 "**음잘알**"은 Azure 웹 앱 서비스와 QnAMaker를 이용하였고, python 크롤링을 이용하여 자료를 수집하였습니다.
-
+![](/screenshot1.png)
 ## version
 > version: 0.1  
 >> 사용자 입력에 echo로 반응  
