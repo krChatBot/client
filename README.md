@@ -24,11 +24,11 @@
 **Term**: 2020.07.04 - 2020.07.25
 **URL (Githup-page)**:  
 **Contributors**:
-<center>
+
 |![sh](./contributor/sh.jpg)|![hs](./contributor/hs.jpg)|
 |---|----|
 | SEOCKHUN BAE | HYUCKSOON JANG |
-</center>
+
 
 ## Start with Bot Framework
 
